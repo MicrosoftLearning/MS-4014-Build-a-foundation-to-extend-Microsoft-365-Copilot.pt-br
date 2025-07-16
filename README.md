@@ -1,4 +1,4 @@
-# INF99X: exemplo de curso
+# MS-4014: Criar uma base para compilar agentes de IA e estender o Microsoft 365 Copilot
 
 **Você é um MCT?** Dê uma olhada no nosso [Guia de usuário do GitHub para MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
